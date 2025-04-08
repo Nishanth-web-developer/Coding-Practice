@@ -1,8 +1,0 @@
-Problem Statement: "Top K Frequent Elements"
-Given an integer array nums and an integer k, return the k most frequent elements.
-
-Example:
-Input: nums = [1,1,1,2,2,3], k = 2  
-Output: [1,2]
-Constraints:
-You may assume that k is always valid (i.e., 1 ≤ k ≤ number of unique elements).
