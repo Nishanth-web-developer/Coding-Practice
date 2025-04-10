@@ -1,0 +1,26 @@
+Problem: Student Grades Analyzer
+You are asked to build a small system that analyzes student data. Each student has a name, a list of marks, and a department. You need to perform the following:
+
+Requirements:
+Create a Student class with:
+
+Name (string)
+Department (string)
+Marks (List of int)
+
+In the Main method:
+Create a list of at least 5 students with sample data (some with same department).
+Calculate the average mark for each student.
+
+Display:
+The name of the top student (highest average mark).
+The average marks by department (group students by department and find department averages).
+
+Example Output:
+
+Top Student: Alice (Average: 92.33)
+
+Department Averages:
+- CSE: 85.5
+- ECE: 78.25
+- MECH: 81.0
