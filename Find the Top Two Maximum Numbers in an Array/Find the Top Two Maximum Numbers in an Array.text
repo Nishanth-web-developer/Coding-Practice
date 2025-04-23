@@ -1,0 +1,20 @@
+Problem: Find the Top Two Maximum Numbers in an Array
+Description:
+Write a C# method that takes an integer array as input and returns the two largest distinct numbers in the array.
+Do not use LINQ or built-in sorting methods.
+Return a tuple or an array containing the top two numbers.
+If the array has fewer than two distinct numbers, return null.
+
+Function Signature:
+(int, int)? FindTopTwo(int[] numbers)
+Example 1:
+Input: [10, 5, 20, 8, 20]
+Output: (20, 10)
+
+Example 2:
+Input: [5]
+Output: null
+
+Example 3:
+Input: [3, 3, 3]
+Output: null
