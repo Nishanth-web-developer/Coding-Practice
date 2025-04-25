@@ -1,0 +1,12 @@
+Problem: Find the First Non-Repeating Character
+Description:
+Given a string, write a C# function to return the first non-repeating character in it. If there is no such character, return '_'.
+
+Example 1:
+Input: "swiss"
+Output: 'w'
+
+Example 2:
+Input: "aabbcc"
+Output: '_'
+
