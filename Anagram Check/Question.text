@@ -1,0 +1,17 @@
+ Problem: Anagram Check
+Description:
+Write a C# function that checks if two strings are anagrams of each other.
+Two strings are anagrams if they contain the same characters but in a different order. The comparison should be case-insensitive.
+
+Example 1:
+Input: "listen", "silent"
+Output: True
+
+Example 2:
+Input: "triangle", "integral"
+Output: True
+
+Example 3:
+Input: "hello", "world"
+Output: False
+
